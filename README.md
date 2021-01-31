@@ -1,2 +1,2 @@
-# Constrained-Bodies-
-We learned how to make constrained bodies in our angry birds game!
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
